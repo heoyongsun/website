@@ -119,6 +119,10 @@ footer span{
 	h1.main-title{
 	font-size:4em;
 	}
+	video{
+	width: 90%;
+	margin-bottom: 20px;
+}
 }
 
 /*동영상 중간 라인 용*/
